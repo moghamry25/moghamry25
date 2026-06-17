@@ -4,7 +4,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=moghamry25&label=Profile%20views&color=0e75b6&style=flat" alt="moghamry25" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moghamry25" alt="moghamry25" /></a>
 </p>
 
 ---
@@ -56,7 +55,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=moghamry25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=moghamry25&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph" />
 </div>
 
 ---
